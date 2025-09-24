@@ -73,5 +73,3 @@ Contributions and suggestions are welcome! Feel free to open issues or pull requ
 This project is licensed under the MIT License.
 
 ---
-
-This README ensures clarity, highlights your skill focus, and encourages contribution, making your GitHub project approachable and professional.
