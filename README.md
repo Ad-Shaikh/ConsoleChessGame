@@ -30,26 +30,25 @@ This project is primarily intended as a learning exercise to reinforce foundatio
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/ConsoleChessGame.git
+   git clone https://github.com/Ad-Shaikh/ConsoleChessGame.git
    ```
 
 2. Compile the Java source files:
 
    ```
-   javac src/*.java
+   javac *.java
    ```
 
 3. Run the game:
 
    ```
-   java src.Main
+   java ChessGame
    ```
 
 ## Project Structure
 
 ```
-src/
- ├── Main.java          # Entry point and game loop
+ ├── ChessGame.java          # Entry point and game loop
  ├── Piece.java         # Abstract base class for chess pieces
  ├── Pawn.java          # Pawn piece class
  ├── Rook.java          # Rook piece class
